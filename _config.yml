@@ -1,4 +1,5 @@
 baseurl: ""
 url: "https://blog.j30ng.com"
+title: "https://blog.j30ng.com"
 theme: jekyll-theme-primer
 google_analytics: "UA-185615935-1"
