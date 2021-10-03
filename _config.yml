@@ -1,6 +1,6 @@
 baseurl: ""
 url: "https://blog.j30ng.com"
-title: "blog.j30ng.com"
+title: "Engineering blog - Jeonghyeon Lee"
 theme: jekyll-theme-primer
 author: "Jeonghyeon Lee"
 google_analytics: "UA-185615935-1"
